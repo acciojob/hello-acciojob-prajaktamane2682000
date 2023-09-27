@@ -1,7 +1,11 @@
 /* Your CSS Code here. */
+main.accio{
+	background-color:black;
+	height:150px;
+	width:150px;
+}
 p.hello-accio{
 	color:white;
-	background-color: black;
 	margin-left: 32px;
 	padding: 10px;
 
